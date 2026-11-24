@@ -1,3 +1,3 @@
-# Nexa
+# Deskara
 
-Downloads und Updates für Nexa. Neueste Version unter **Releases**.
+Downloads und Updates für Deskara (früher Nexa). Neueste Version unter **Releases**.
